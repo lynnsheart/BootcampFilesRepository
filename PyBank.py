@@ -2,7 +2,7 @@
 import os
 import csv
 
-csvPath = os.path.join('PyBank', 'Resources', 'budget_data.csv')
+csvPath = os.path.join('budget_data.csv')
 print(csvPath)
 
 #File to load
